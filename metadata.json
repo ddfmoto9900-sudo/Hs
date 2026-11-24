@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix: HS Code Finder",
+  "description": "تطبيق لمعرفة رمز النظام المنسق (HS Code) للمنتجات عن طريق كتابة الاسم أو التقاط صورة باستخدام الذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
